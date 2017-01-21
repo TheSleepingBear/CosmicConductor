@@ -1572,6 +1572,3 @@ LogInit: Object subsystem initialized
 [2017.01.21-08.48.57:188][392]LogOutputDevice:Error: ntdll.dll
 [2017.01.21-08.48.57:188][392]LogOutputDevice:Error: 
 [2017.01.21-08.48.57:190][392]LogStats:                SubmitErrorReport -  0.000 s
-[2017.01.21-08.48.57:413][392]LogStats:                    SendNewReport -  0.223 s
-[2017.01.21-08.48.57:413][392]LogStats:             FDebug::EnsureFailed -  0.236 s
-[2017.01.21-08.49.06:696][392]LogSourceControl: FGitCheckInWorker: commit successful
