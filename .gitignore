@@ -68,3 +68,10 @@ DerivedDataCache/*
 .ctrlp_cache/
 
 
+CosmicConductor/Saved/Config/Windows/Engine.ini
+CosmicConductor/Saved/Config/Windows/Engine.ini
+*.ini
+CosmicConductor/Saved/Config/Windows/Engine.ini
+CosmicConductor/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+CosmicConductor/Saved/Autosaves/PackageRestoreData.json
+CosmicConductor/Intermediate/CachedAssetRegistry.bin
